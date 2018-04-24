@@ -1,0 +1,4 @@
+Blackberry2,-95
+Blackberry,-55
+Blackberry10,20
+Android4,65

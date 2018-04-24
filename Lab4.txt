@@ -1,0 +1,4 @@
+iPhone,45
+iPhone7,49
+iPhone2,65
+iPhone6,78
